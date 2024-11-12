@@ -32,9 +32,11 @@
   "meta-category": "misc",
   "name": "opentide",
   "required": [
+    "name",
     "uuid",
+    "version",
+    "opentide-type",
     "opentide-object",
-    "opentide-type"
   ],
   "uuid": "892fd46a-f69e-455c-8c4f-843a4b8f4295",
   "version": 1
